@@ -1,0 +1,40 @@
+# Domain-of-Devon
+<!DOCTYPE html>
+
+<html>
+<head>
+<style> p {color:red}<h1 style="text-align: center; color:green; font-family: Cursive">Life is ever-evolving</style></head>
+		<title>Evolution of Consciousness</title>
+			<body style="background-color: cyan">
+				<h1 style="text-align:center; color: blue">James Cutak</h1>
+					<p style="font-size: 30px; color: red"><strong><em>Hello</em></strong> world</p>
+					<p style="font-size: 20px">So this will be my first website I guess. I'm not sure what it'll evolve into</p>
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+<p><span>This</span> is a test<p>
+<ol>Top Tips for Life
+	<li><strong>Strive</strong> for perfection</li>
+	<li><strong><em>Accept</em></strong> that you as a human are imperfect</li>
+	<li><span style="color:red">Live</span> in the present moment wisely and earnestly</li>
+	<li>Accept that life is full of tribulations and face them <em>head on</em></li>
+	<li>Live in a way such that regret never manifests in the first place</li>
+<a href=<em>"https://soundcloud.com/cutak"</em>
+	<div style="background-color: orange; width: 400px; height: 25px">
+		Here is some of my trippy music for my fellow psychonauts
+			</div></a>
+<p>
+	<h3>Above the picture is a helpful website encompassing the <em>nature</em> of psychedelics through written firsthand experiences</h3>
+		<a href="https://erowid.org/experiences/">
+			Erowid</a>
+<a href="https://soundcloud.com/cutak">
+	<img src="https://qph.ec.quoracdn.net/main-qimg-2d575da5f58dfefe36bed51c64787e3a?convert_to_webp=true"/>
+</a>
+<h5>
+	<p style="background-color: black; font-size: 40px; color: yellow">I believe in change</p></h5>
+<h4>
+	<p style="background-color: white; font-size: 30px; color:blue">I believe in unlimited human potential</p></h4>
+<h3>
+	<p style="color:black; font-size: 30px">I believe in the evolution of consciousness as an ever-progressing system of information utilization for the purpose of elongating the span awareness as an entity and as an individually manifested phenomenon.</p></h3>
+<h5>
+	<p>Hello. My name is James Cutak and I will one day be a multi-billionaire due to my success in innovating the field of computer science.</p></h5>
+	</body> 
+</html>
